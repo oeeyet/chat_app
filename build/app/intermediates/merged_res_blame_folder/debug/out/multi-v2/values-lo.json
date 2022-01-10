@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/knock/Desktop/practice_flutter/chatapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
+            "outputFile": "/Users/knock/chat_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
             "map": [
                 {
                     "source": "/Users/knock/.gradle/caches/transforms-2/files-2.1/14e561dfe998324f0993f7eed2935f20/jetified-play-services-basement-17.1.0/res/values-lo/values.xml",

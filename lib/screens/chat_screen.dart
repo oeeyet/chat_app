@@ -37,7 +37,7 @@ class _ChatScreenState extends State<ChatScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Chat screen'),
+        title: Text('Chat screen01'),
         actions: [
           IconButton(
             onPressed: () {
